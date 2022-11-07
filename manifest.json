@@ -7,7 +7,7 @@
         "fr": "Platforme de Microblogging"
     },
     "version": "12.119.0~ynh1",
-    "url": "https://misskey-hub.net/",
+    "url": "https://codeberg.org/thatonecalculator/calckey",
     "upstream": {
         "license": "AGPL-3.0",
         "website": "https://codeberg.org/thatonecalculator/calckey",
